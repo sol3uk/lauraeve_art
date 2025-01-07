@@ -10,7 +10,7 @@ base_url = "https://www.instagram.com/lauraeve_art/"
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
+description = "Look for me here!"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
@@ -18,3 +18,11 @@ icon_size = "30px"
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
 url = "https://www.instagram.com/lauraeve_art/"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/etsy/ffffff"
+title = "Etsy"
+url = "https://www.etsy.com/uk/shop/LauraEveArt/"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/tiktok/ffffff"
+title = "TikTok"
+url = "https://www.tiktok.com/@lauraeveart/"
