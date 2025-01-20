@@ -1,5 +1,5 @@
 name = "Laura Humphries"
-description = "Birmingham based artist. Acrylic animal and pet paintings."
+description = "Birmingham based artist. Acrylic animal and pet paintings. Please get in touch if you'd like a custom peice or to buy any that are up for sale."
 keywords = "Lauraeve, lauraeve_art, instagram, LauraEveArt, etsy, @lauraeveart, tiktok, art, handpainted, custom, acrylic, pet, animal, painting, artist, birmingham"
 image = "laura.webp"
 theme = "light"
@@ -8,21 +8,21 @@ text_align = "center"
 gtag_id = "G-QXLBNBP2EW"
 base_url = "https://www.instagram.com/lauraeve_art/"
 
-[[sections]]
-title = "Works For Sale"
-description = "Here are my current pieces that are up for sale, please get in touch if any of them catch your eye"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-icon = "for_sale1.jpg"
-[[sections.items]]
-icon = "for_sale2.jpg"
-[[sections.items]]
-icon = "for_sale3.jpg"
-[[sections.items]]
-icon = "for_sale4.jpg"
-[[sections.items]]
-icon = "for_sale5.jpg"
+# [[sections]]
+# title = "Works For Sale"
+# description = "Here are my current pieces that are up for sale, please get in touch if any of them catch your eye"
+# direction = "column"
+# item_style = "outline"
+# [[sections.items]]
+# icon = "for_sale1.jpg"
+# [[sections.items]]
+# icon = "for_sale2.jpg"
+# [[sections.items]]
+# icon = "for_sale3.jpg"
+# [[sections.items]]
+# icon = "for_sale4.jpg"
+# [[sections.items]]
+# icon = "for_sale5.jpg"
 
 
 [[sections]]
