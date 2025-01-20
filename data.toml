@@ -9,6 +9,23 @@ gtag_id = "G-QXLBNBP2EW"
 base_url = "https://www.instagram.com/lauraeve_art/"
 
 [[sections]]
+title = "Works For Sale"
+description = "Here are my current pieces that are up for sale, please get in touch if any of them catch your eye"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+icon = "for_sale1.jpg"
+[[sections.items]]
+icon = "for_sale2.jpg"
+[[sections.items]]
+icon = "for_sale3.jpg"
+[[sections.items]]
+icon = "for_sale4.jpg"
+[[sections.items]]
+icon = "for_sale5.jpg"
+
+
+[[sections]]
 title = "Links"
 description = "Look for me here!"
 direction = "row"
